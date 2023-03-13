@@ -1,0 +1,29 @@
+Exercises Level 1
+1. Write a python comment saying Python variables and Constants
+2. Declare a first_name variable and assign a value to it
+3. Declare a last_name variable and assign a value to it
+4. Declare a full_name variable and assign a value to it
+5. Declare a variable is_light_on and assign a value to it
+6. Declare multiple variable on one line
+
+
+Exercises Level 2
+1. Check the data type of all your variables using type() built-in function
+2. Using the len() built-in function, find the length of your first name
+3. Compare the length of your first_name and your last_name
+4. Declare 6 as num_1 and 4 as num_2
+    1. Add num_1 and num_2 and assign the value to a variable total
+    2. Subtract num_2 from num_1 and assign the value to a variable difference
+    3. Multiply num_2 and num_1 and assign the value to a variable product
+    4. Divide num_1 by num_2 and assign the value to a variable division
+    5. Use modulus division to find num_2 divided by num_1 and assign the value to a variable remainder
+    6. Calculate num_1 to the power of num_2 and assign the value to a variable exp
+    7. Find floor division of  num_1 by num_2 and assign the value to a variable floor_division
+5. The radius of a circle is 30 meters.
+    1. Calculate the area of a circle and assign the value to a variable name of area_of_circle by taking user input()
+    2. Calculate the circumference of a circle and assign the value to a variable name of circum_of_circle by taking user input()
+    hint : input() function ca be used  to take input from user (we will cover it on next lesson) but syntax is simple:
+     num = input('Enter a number: ')
+     print(num )
+6. Use the built-in input() function to get first name, last name, country and age from a user and store the value to their corresponding variable names
+7. Run help(keywords) in Python shell or in your file to check for the Python reserved words or keywords
